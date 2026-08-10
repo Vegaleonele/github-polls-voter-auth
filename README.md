@@ -2,6 +2,10 @@
 
 # 📊 RepoVote Engine
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 **Decentralized Decision-Making, Powered by Your Git Repository**
 
 Welcome to **RepoVote Engine** — a revolutionary open-source platform that reimagines how communities make collective decisions by embedding the voting process directly into your GitHub repository. Unlike traditional polling tools that require external authentication silos, RepoVote Engine leverages your existing Git infrastructure: every poll is a structured CSV file living in your repo, every commit is a ballot cast, and every merge request is a potential vote recount.
